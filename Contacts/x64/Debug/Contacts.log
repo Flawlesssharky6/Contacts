@@ -1,0 +1,9 @@
+﻿  Contacts.cpp
+  Source.cpp
+C:\Users\cheng\OneDrive\Desktop\C++\Contacts\Contacts\Source.cpp(93,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\cheng\OneDrive\Desktop\C++\Contacts\Contacts\Source.cpp(137,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\cheng\OneDrive\Desktop\C++\Contacts\Contacts\Source.cpp(174,13): warning C4101: 'choice': unreferenced local variable
+C:\Users\cheng\OneDrive\Desktop\C++\Contacts\Contacts\Source.cpp(214,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\cheng\OneDrive\Desktop\C++\Contacts\Contacts\Source.cpp(234,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Contacts.vcxproj -> C:\Users\cheng\OneDrive\Desktop\C++\Contacts\x64\Debug\Contacts.exe
